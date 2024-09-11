@@ -332,6 +332,74 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
+--- !u!1001 &504320231
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 3787f5cfb57f92c4cb3d15127ffe90df,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3787f5cfb57f92c4cb3d15127ffe90df,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6699996
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3787f5cfb57f92c4cb3d15127ffe90df,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 20.058556
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3787f5cfb57f92c4cb3d15127ffe90df,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3787f5cfb57f92c4cb3d15127ffe90df,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3787f5cfb57f92c4cb3d15127ffe90df,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3787f5cfb57f92c4cb3d15127ffe90df,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3787f5cfb57f92c4cb3d15127ffe90df,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3787f5cfb57f92c4cb3d15127ffe90df,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3787f5cfb57f92c4cb3d15127ffe90df,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3787f5cfb57f92c4cb3d15127ffe90df,
+        type: 3}
+      propertyPath: m_Name
+      value: "\u7121\u984C"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3787f5cfb57f92c4cb3d15127ffe90df, type: 3}
 --- !u!1 &507019924 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8842002483951015178, guid: 755bb09eb0ca9fc43b90b710a5689dc2,
@@ -619,6 +687,13 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+>>>>>>> 7bc32e797df7961ac9fdab1cb0a280f62fc1fbba
+>>>>>>> Stashed changes
 --- !u!1001 &863231738
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -953,6 +1028,13 @@ Rigidbody:
   m_Constraints: 0
   m_CollisionDetection: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+>>>>>>> 7bc32e797df7961ac9fdab1cb0a280f62fc1fbba
+>>>>>>> Stashed changes
 --- !u!1 &1109886579 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1545311983140596176, guid: db8e062c3d39a534bb30abedb8be318b,
@@ -1838,7 +1920,25 @@ SceneRoots:
   - {fileID: 1505997265}
   - {fileID: 510554408}
   - {fileID: 552870890}
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  - {fileID: 504320231}
+=======
+  - {fileID: 863231738}
+>>>>>>> 8bbe55e9502643019aa21a7db2b2bc944173fddb
+=======
+  - {fileID: 863231738}
+>>>>>>> 8bbe55e9502643019aa21a7db2b2bc944173fddb
+=======
+>>>>>>> Stashed changes
   - {fileID: 863231738}
 =======
   - {fileID: 7403030749738740802}
+>>>>>>> Stashed changes
+<<<<<<< Updated upstream
+=======
+>>>>>>> 7bc32e797df7961ac9fdab1cb0a280f62fc1fbba
 >>>>>>> Stashed changes
